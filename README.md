@@ -7,3 +7,8 @@ React（有時叫React.js或ReactJS）是一個為資料提供彩現為 HTML 視
 
 ## 簡介 Redux 
 Redux 是一個用於應用程式狀態管理的開源 JavaScript 庫。Redux 經常與React 搭配運用，但其也可以獨立使用。Redux 可以讓你把 UI 描述成一個 state 的 function，而 Redux 對應 action 來發出 state 更新。
+
+---
+
+Resource: 
+[Wiki - React](https://zh.wikipedia.org/wiki/React)、 [Wiki - Redux](https://zh.wikipedia.org/wiki/Redux_(JavaScript%E5%87%BD%E5%BC%8F%E5%BA%AB))
